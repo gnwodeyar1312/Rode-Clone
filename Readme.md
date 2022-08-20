@@ -1,6 +1,6 @@
 # Rode Clone Project Using HTML and Tailwind CSS
 
-
+![Rode](./rode.png)
 
 ***Tech Stack***
 
